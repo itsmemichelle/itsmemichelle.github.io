@@ -1,48 +1,12 @@
-
 body {
+  margin: 30px auto;
   max-width: 1000px;
-  margin: auto;
-  background-color: lightblue;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  padding: 30px 20px;
   text-align: center;
 }
 
-
-h1{
-  color: darkblue;
-}
-
-p{
-  color: violet;
-}
-
-h3{
-  color: blue;
-}
-
-#one{
-  background-color: yellow;
-}
-
-#two{
-  background-color: pink;
-  float: left;
-  margin-left: 50px;
-  margin-bottom: 50px;
-}
-
-#three{
-  background-color: green;
-  float: right;
-  margin-right: 50px;
-  margin-bottom: 50px;
-}
-
-#four{
-
-  background-color: orange;
-  clear: both;
-}
-
-.red-text{
-  color: darkred;
+h1 {
+  padding: 20px 0px 10px 0px;
 }
