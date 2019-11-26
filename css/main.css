@@ -17,8 +17,13 @@ body {
   height: 100%;
 }
 
+img {
+  float: center;
+}
+
 h1 {
-  padding: 10px 0px 10px 0px;
+  float: center;
+  padding: 5px 0px 5px 0px;
   font-family: 'Monsieur La Doulaise', cursive;
   font-size: 90px;
   color: White;
@@ -90,6 +95,7 @@ portfolio-item {
 
 /* Navbar container */
 .navbar {
+  float: center;
   overflow: hidden;
   background-color: #333;
   font-family: Arial;
